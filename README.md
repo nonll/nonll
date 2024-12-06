@@ -39,10 +39,15 @@ Here are some ideas to get you started:
 ## 📊 GitHub 统计 | Statistics
 
 <div align="center">
-    <img height="160em" width="330em" src="https://github-readme-stats.vercel.app/api?username=nonll&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
-  
-  <img height="220em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonll&langs_count=8&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nonll&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonll&layout=compact&langs_count=8&theme=radical"/>
 </div>
+
+## 🌐 社交媒体 | Social Media
+
+- 💬 微信公众号：
+- 🐦 Twitter：
+- 📫 邮箱：
 
 ## 📈 贡献时间线 | Contribution Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=nonll&theme=dracula)
