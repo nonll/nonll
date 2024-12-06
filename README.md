@@ -7,6 +7,8 @@
   <a href="https://www.zhihu.com/people/nonl"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
   <!--<a href="https://qzkq.github.io/img/wechat_favicon.png"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;-->
   
+  [![GitHub followers](https://img.shields.io/github/followers/nonll?style=social)](https://github.com/nonlz)
+  ![Profile Views](https://komarev.com/ghpvc/?username=nonll&color=blueviolet)
 </div>
 
 <div align="center">
